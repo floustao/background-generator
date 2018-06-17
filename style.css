@@ -5,7 +5,22 @@ body {
   text-transform: uppercase;
   letter-spacing: .5em;
   top: 15%;
-  background: linear-gradient(to right, #e66465, #9198e5); /* Standard syntax */
+  background: linear-gradient(to right, red , yellow); /* Standard syntax */
+  height: 100vh;
+}
+
+.inputs {
+  display: flex;
+  justify-content: center;
+}
+
+input {
+  margin: 10px;
+}
+
+input:last-child {
+  width: 50px;
+  text-align: center;
 }
 
 h1 {
@@ -23,5 +38,4 @@ h3 {
   text-align: center;
   text-transform: none;
   letter-spacing: 0.01em;
-
 }
