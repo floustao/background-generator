@@ -1,6 +1,6 @@
 # Background Generator
 
-*Couldn't find a simple linear-gradient generator online so I made one to save time in my future projects*
+*Simple linear-gradient generator to save time choosing it*
 
 ## Preview
 
